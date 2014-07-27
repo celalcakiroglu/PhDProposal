@@ -1,0 +1,10 @@
+A proper DIC analysis requires images with a non-uniform high-contrast speckle pattern.
+The principal result of a (C)WP test for a strainbased assessment is the relation between crack driving force and the remotely applied longitudinal strain (remote strain), whose proper measurement is key to obtaining a valid test result
+Development of an Intelligent Alarm Mechanism for the Prevention of Pipeline Failure 
+In this presentation I am going to explain why Enbridge has to invest 50K for an intelligent alarm system
+Due To Tensile Strain 
+Either there is risk of pipe rupture or not
+We need an intelligent alarm mechanism which monitors the strain distribution of the pipe wall and is capable of deciding if there is risk or not.
+As humans can distinguish between a sports car and a car which is not a sports car, similarly machines can learn to classify by examples.
+Once we have the classification algorithm, we can implement it in microcontrollers embedded on the pipe wall.
+These microcontrollers will be connected to strain gauges.

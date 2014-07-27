@@ -1,0 +1,93 @@
+* Generally accepted assumption: Buried defects are less detrimental than surface-breaking defects of the same size.
+
+* Mine subsidence:  The gradual sinking of landforms to a lower level as a result of mining operations
+
+* Reasons for longitudinal strains: 
+	Onshore: seismic activity, slope instability, frost heave, mine subsidence.
+	Offshore: the highest longitudinal strains typically occur during pipe laying operations (pipe laying by reeling -> 2-3% strain observed).
+
+* Crack driving force: Can be represented by the stress intensity factor KI OR J-integral OR CTOD OR CMOD
+
+* Fracture toughness: Can be obtained through destructive testing, such as the 
+standard CTOD test or wide plate test.
+
+* In literature the strain limits are obtained by equating the crack driving force to the fracture toughness.
+
+* Uniform strain: Strain at ultimate tensile strength (This is from Horsley's paper and not everyone has the same opinion).
+
+* Assumption about Defect location: The defect location (weld metal or HAZ) has no 
+influence on crack driving force when the weld joint is assumed to have uniform tensile properties. The uniform tensile property assumption of the weld joint is conservative because there is no strength undermatching in the welds. 
+
+* The most significant parameters affecting the tensile strain limits of girth welds:
+	Pipe wall thickness
+	Defect depth relative to pipe surface (buried defect)
+	Defect height
+	Defect length
+	Base metal Y/T
+	Base metal uniform strain
+	Toughness
+
+* High strain hardening rate (low Y/T) increases the tensile strain limits of girth welds. Higher pipe grades have lower strain hardening rate and uniform strain.
+
+* Failure mode of a pipe with girth weld surface defect: either fracture or plastic collapse of the ligament over the defect. Fracture mode is also called "ductile tearing at the flaw (medium to large size crack)". Plastic collapse case is also called "plastic necking in the base pipe away from the flaw (very small flaw sizes)".
+
+*Why strain based design?: The longitudinal strains can greatly exceed the yield strains in pipelines through discontinuous permafrost, soil or seismic instability and in offshore pipe laying. The stress-based assessment procedures are incapable of providing safe strain limits for such high strain conditions.Traditional allowable stress design methods address scenarios where
+the global response is mainly elastic and may not be sufficient for design of pipelines experiencing large strains in challenging
+arctic and seismic conditions. Therefore there is a need to develop methods for pipeline design beyond yield, commonly termed strainbased design. It is not possible to apply conventional stress-based design or integrity assessment methods in cases where a pipeline is subjected to large plastic strain that greatly exceeds the yield stress of the pipe material.
+It is not possible to apply conventional stress-based design or integrity assessment methods when a pipeline is subjected to large plastic strain that greatly exceeds the yield stress of the pipe material.
+
+* Weld strength undermatching can happen if the pipe base metal has very high strength.
+
+* The principal result of a (C)WP test for a strainbased assessment is the relation between crack driving force and the remotely applied longitudinal strain (remote strain), whose proper measurement is key to obtaining a valid test result
+
+* Digital Image Correlation: A proper DIC analysis requires images with a non-uniform high-contrast speckle pattern.
+
+* Experimental and numerical results have shown that the SENT R-curves (CTOD R-curve) closely match the full-scale test
+R-curves.
+
+* There are two different modes of girth weld failure: ductile tearing at the flaw (medium to large size crack) and plastic necking in the base pipe away from the flaw (very small flaw sizes). For the plastic necking case (small flaw) a  base  pipe  plastic collapse  equation is necessary.
+
+* In strain-based fracture assessment the important aspects are to express the crack driving force as a function of the applied strain, and to determine the critical strain level.
+
+* Crack growth resistance is CTOD wrt delta a.
+
+* Pipe reeling is a fast and efficient method of laying offshore pipelines. Girth welds between pipe lengths are fabricated and inspected at an onshore spool base before being wound onto a spool mounted on a reeling vessel. The vessel sails to site, the spool is unwound and the pipe laid. However, the reeling process imposes repeated high plastic strains on the pipe. To define acceptable flaw sizes and material properties and to ensure fitness for service, full-scale tests are possible but expensive and time consuming and only applicable for the materials and conditions examines (That's what we are doing for the X52 pipe).
+
+* Load can also be plotted with respect to CMOD
+
+* We could use LVDTs spanning the entire pipe length and use Delta L/ L0 in order to determine the tensile strain capacity.
+
+* Acoustic emission (AE) is the sound waves produced when a material undergoes stress (internal change), as a result of an external force. This can occur for example when the energy in a material, or on its surface is released rapidly. AE is commonly defined as transient elastic waves within a material, caused by the release of localized stress energy.
+
+* In one paper when the specimen did not fail at the crack, they defined the strain capacity as the strain at the point of maximum applied load.
+
+* When the pipe fails inside the crack this is called "ductile tearing". Ductile tearing from the notches can't be explained by simple plasticity models. When it fails away from the flaw, this is plastic collapse or tensile instability.
+
+* The most critical fracture mode in pipelines is considered to be ductile fracture initiated and propagated from defects in girth welds.
+
+* Cold bends, which are widely used in several high-temperature components (e.g. boilers, headers), are made from straight pipes by
+a cold-working process using a bending machine.
+
+*Defect depth is always measured from internal diameter.
+
+*Fracture toughness parameters:
+- Critical stress intensity factor (KIc)
+- The critical value of the J integral (Jcrit)
+- The critical crack tip opening displacement (CTOD or delta_crit)
+
+*Fractography: Fracture surface topography resulted from the premise that the topography of a surface created by a growing crack is characteristic of microstructure of the material and also the test conditions.
+
+* The curved wide plate test can be described as an intermediate scale tensile test.
+
+* Can a 3OD or 2OD specimen simulate the whole pipe ?
+  According to St. Venant's principle, when loaded in tension, the longitudinal strain field in a section at a considerable distance from the girth weld is uniform.
+
+* ASTM E740 specifies a minimum length /width ratio of 2 for curved wide plate tests.
+
+* Speckles of 3 by 3 pixels are recommeded. This corresponds to 0.8 mm by 0.8 mm.
+
+* If the variable that we are trying to predict is continuous such as a house price, then it is a regression problem. 
+
+* If the variable that we are trying to predict is discrete such as sports car or not, then it is a classification problem. 
+
+*When the function F is convex, all local minima are also global minima, so in this case gradient descent can converge to the global solution.
