@@ -91,3 +91,5 @@ a cold-working process using a bending machine.
 * If the variable that we are trying to predict is discrete such as sports car or not, then it is a classification problem. 
 
 *When the function F is convex, all local minima are also global minima, so in this case gradient descent can converge to the global solution.
+
+* The eccentricity of the load prevents an inappropriate buckling due to pipe - end plate interaction.
